@@ -2,7 +2,7 @@
     "name": "alin999/demo-wp-nonces-oop",
     "description": "Composer package, It implements working with WordPress Nonces in an object orientated way",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alin Duica",
