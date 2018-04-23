@@ -1,0 +1,11 @@
+{
+    "name": "aisoft/w-p-nonces-o-o-p",
+    "description": "Description of project WP_nonces_OOP.",
+    "authors": [
+        {
+            "name": "Alin Duica",
+            "email": "alinduica@gmail.com"
+        }
+    ],
+    "require": {}
+}
